@@ -4,6 +4,14 @@ draft: true
 draftSectionTwo: true
 ---
 
+# Leaving Early
+
+- Hayden
+- Audrey
+- Yahiro
+- Masa
+- Shiyi
+
 # Mid Module Portfolio Review
 
 ## Audrey 

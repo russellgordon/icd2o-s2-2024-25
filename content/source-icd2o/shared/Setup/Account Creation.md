@@ -5,45 +5,19 @@ created: 2025-01-09T00:00:00.000-0400
 createdForSectionTwo: 2024-10-09T00:00:00.000-0400
 tags: 
 ---
-External Hyperlink - highlight, cmnd+K, square brackets is display, rounded paste in link
-Say that you want to[ draw a triangle](http://localhost:8080/Setup/Account-Creation) like this:
+## First lets join our classroom 
+[Follow this link to TinkerCad.com to join our classroom](https://www.tinkercad.com/joinclass/T2QEYYZYF)
+>[!info] I have added you all already to the class but you must enter your nickname that I have already set. 
+>Your nickname is your first name, and then your last name all lowercase. For example, my name is David Jones, so my nickname is davidjones.
+>>[!question] Why do we need to join the classroom?
+>>>[!success] When you join the classroom, I am able to see all of your work that you create, as well as tutorials completed. Watching your accounts, with the addition of your Notion entries, will help me follow along with your learning more closely. The work that is on TinkerCad will be taken into account for marking 
+## We will be using TinkerCad for the rest of this mod, let's bookmark it so that we always have the link
+On Google Chrome, navigate to the homepage on TinkerCad and click on the "Star icon" in the top right of the URL bar. Save TinkerCad as a bookmark
 
-![[Pasted image 20240919071631.png|300]]
+![[Pasted image 20241214173221.png]]
 
-## tinkerCaD Link
-![[Pasted image 20241212150022.png]]
-![[Pasted image 20241212150109.png|150]]
-You could do this by moving the turtle forward and turning.
-
-Drawing the horizontal and vertical edges would be easy.
-
-Drawing the diagonal is harder. How long should the edge be? By how many degrees would the turtle have to turn?
-
-If you have studied trigonometry, you know this can be relatively easily figured out.
-
-However, using sine, cosine, or tangent ratios is just a *bit* too much work to do every time we want to draw a diagonal.
-
-So... the turtle drawing framework has a shortcut. It is the diagonal command:
-
-![[Pasted image 20240919072002.png]]
-
-Here is how it works – watch the animation closely:
-
-<div style="padding:56.25% 0 0 0;position:relative;">
-	<iframe src="https://player.vimeo.com/video/1038708654?h=4df2ed886f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&portrait=0&byline=0&title=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Opening the Teamspace">
-	</iframe>
-	</div>
-<script src="https://player.vimeo.com/api/player.js"></script>
-
-In more detail, here is an explanation:
-
-![[Screenshot 2024-09-19 at 7.31.39 AM.png]]
-
-To summarize, with a few more examples:
-
-|direction|argument|result|
-|-|-|-|
-|right|dx: 100|goes 100 units to the right, relative to current position|
-|left|dx: -100|goes 100 units to the left, relative to current position|
-|up|dy: 100|goes 100 units upwards, relative to current position|
-|down|dy: -100|goes 100 units downwards, relative to current position|
+>[!note] TinkerCad may seem simple to start with, but in no time you will be able to create some impressive models, and even get a chance to 3D print them!
+>>[!example] A student that I taught last year had no modelling experience, but by the end of the unit, he was able to model and print an accurate rendition of the Colosseum (Finished print on the left, TinkerCad model on the right)
+>>![[Pasted image 20241214175056.png]]
+>
+## Before moving on to the next step, confirm with Mr. Jones that you signed up your account properly and that I can see you in "the classroom"
