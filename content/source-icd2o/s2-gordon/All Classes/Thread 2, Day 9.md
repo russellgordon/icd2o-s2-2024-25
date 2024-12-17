@@ -8,7 +8,8 @@ createdForSectionTwo: 2024-12-17T07:00:00.000-0400
 tags:
 ---
 ## Agenda
-1. Task: [[Gig Poster]]
+1. Discussion: Mid-Year Course Feedback Results
+2. Task: [[Gig Poster]]
 	- Continue with this task today.
 	> [!IMPORTANT]
 	> Your final product must be handed in by the end of our final period on Thursday, December 19, 2024.
