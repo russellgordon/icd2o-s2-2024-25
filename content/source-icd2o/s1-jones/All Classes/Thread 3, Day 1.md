@@ -6,12 +6,18 @@ draftSectionTwo: true
 enableToc: false
 excludeBacklinks: true
 tags:
+notes: Divide class into two groups. One teacher helps with Account Creation, the other will work with glue guns.
 ---
 ## Agenda
 1. Setup: [[Account Creation]]
-	1. Follow the link above to create your TinkerCad account and to join the classroom
-2. Learning TinkerCad: [[TinkerCad Tutorials]]
-3. Let's make something! : [[Keychain creation]]
+	- Half of our class will start with creating accounts, working with Mr. Gordon.
+2. Tutorial: [[Using a Hot Glue Gun]]
+	- Half of our class will start today with learning to use a hot glue gun, working with Mr. Jones.
+3. Tutorial: [[TinkerCad]]
+	- Learn the basics of this 3D modeling application.
+4. Task: [[Make a Keychain]]
+	- Create your first product using 3D modeling techniques.
+
 ## Things to do before our next class
 
-- [ ] Make a portfolio post [on Notion](https://notion.so) and summarize what you've learned today about iteration, and loops.
+- [ ] Make a portfolio post [on Notion](https://notion.so) and summarize what you've learned today about 3D modeling.

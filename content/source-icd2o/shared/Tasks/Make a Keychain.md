@@ -12,7 +12,7 @@ Let's make a personalized keychain that we can attach to our keys!
 
 ## What you'll need to begin
 - [ ] [[Account Creation|A TinkerCad account that is linked to our classroom]] completed
-- [ ] The first 13 [[TinkerCad Tutorials]] completed
+- [ ] The first 13 [[TinkerCad]] completed
 
 ## Success Criteria
 Object should be unique and identifiable to you. It should be practical and usable as a keychain featuring a ring to attach.
