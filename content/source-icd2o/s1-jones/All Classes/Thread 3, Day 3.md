@@ -8,7 +8,8 @@ excludeBacklinks: true
 tags:
 ---
 ## Agenda
-1. Continue working on [[Themed Chess Pieces]]
+1. Task: [[Themed Chess Pieces]]
+	- Continue working on your chess pieces from yesterday's class
 
 ## Things to do before our next class
 

@@ -2,11 +2,11 @@
 transcludeTitleSize: h2
 created: 2025-01-09T07:00:00.000-0400
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 enableToc: false
 excludeBacklinks: true
-tags:
-notes: Divide class into two groups. One teacher helps with Account Creation, the other will work with glue guns.
+tags: 
+notes:
 ---
 ## Agenda
 1. Setup: [[Account Creation]]

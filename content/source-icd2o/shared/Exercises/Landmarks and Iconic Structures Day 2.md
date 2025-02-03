@@ -1,10 +1,10 @@
 ---
 draft: false
 draftSectionTwo: true
-created: 2024-09-18T00:00:00.000-0400
-createdForSectionTwo: 2024-10-17T00:00:00.000-0400
+created: 2025-01-16T07:00:00.000-0400
+createdForSectionTwo: 2024-10-17T07:00:00.000-0400
 ---
-Ensure that you have all steps from [[3D Printed Landmarks and Iconic Structures Day 1|yesterday's class]] completed
+Ensure that you have all steps from [[Landmarks and Iconic Structures|yesterday's class]] completed
 
 ![[Pasted image 20241224152322.png]]
 ## Refine TinkerCad design
