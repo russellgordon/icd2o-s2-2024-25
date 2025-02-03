@@ -13,7 +13,7 @@ Your 3D model should accurately represent the chosen landmark or building, demon
 For this 3D printed Landmarks and Iconic Structures project, it is imperative that all work submitted is your own original creation. Academic integrity is a cornerstone of our learning community. Therefore, copying designs or using pre-existing models from others and submitting them as your own is strictly prohibited and will be treated as plagiarism. Each student is expected to independently research, design, and create their model using TinkerCAD. Your unique approach, creativity, and problem-solving skills are crucial to this project. Remember, this assignment is not just about the final product, but also about the process of learning, designing, and creating. Any breach of these principles will be taken seriously and will result in disciplinary action. Please refer to [[3D Printing Principles and Rules]] for all of the rules.
 
 ## What you'll need to begin
-Ensure that you are on our classroom for TinkerCad and review the [[File submission (Tinkercad)|file submission standards]] as well as the [[3D Printing Principles and Rules]]. You will need a pencil and paper and to find a partner to give and receive peer feedback.
+Ensure that you are on our classroom for TinkerCad and review the [[Submitting files from Tinkercad|file submission standards]] as well as the [[3D Printing Principles and Rules]]. You will need a pencil and paper and to find a partner to give and receive peer feedback.
 
 ## Choosing your landmark
 
@@ -64,7 +64,7 @@ Share your updated TinkerCad design with peers for a second round of feedback. D
 Review your TinkerCad model to ensure that it is ready for 3D printing. Check for any potential printing issues such as overhangs, unsupported areas, or structural weaknesses. Make any necessary modifications to optimize the design for successful 3D printing while preserving its integrity and authenticity.
 
 ## File submission
-Follow the [[File submission (Tinkercad)| file submission standards]] to submit your project.
+Follow the [[Submitting files from Tinkercad| file submission standards]] to submit your project.
 
 >[!warning] 
 >Let Mr. Jones know when your file is submitted so that I can add it to the print queue
