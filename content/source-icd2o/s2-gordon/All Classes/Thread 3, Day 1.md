@@ -11,7 +11,7 @@ tags:
 1. Setup: [[Creating Tinkercad Accounts]]
 	- Half of our class will start today with creating accounts, working with Mr. Gordon.
 	- After you have created your account, continue on to the next two agenda items.
-2. Tutorial: [[Tinkercad]]
+2. Tutorial: [[Tinkercad Skills]]
 	- Learn the basic functionality of this 3D modeling application.
 3. Task: [[Make a Keychain]]
 	- Create your first product using 3D modeling techniques.

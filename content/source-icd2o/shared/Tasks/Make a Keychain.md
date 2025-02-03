@@ -14,7 +14,7 @@ Make a personalized keychain to attach to your keys.
 ## What you'll need to begin
 
 - [ ] [[Creating Tinkercad Accounts|A TinkerCad account that is linked to our classroom]] 
-- [ ] The first thirteen [[Tinkercad|TinkerCad tutorials]] completed
+- [ ] The first thirteen [[Tinkercad Skills|TinkerCad tutorials]] completed
 
 ## Success Criteria
 
