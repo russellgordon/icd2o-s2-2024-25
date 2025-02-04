@@ -53,7 +53,6 @@ Follow these requirements to submit your work: [[Submitting files from Tinkercad
 1. What problems did you encounter when completing this task? How did you resolve them?
 2. What is your knowledge and understanding of 3D printers and how they work? Have you ever used one before?
 
-
 Make a post on [Notion](https://notion.so) to:
 - [ ] share at least one screenshot of your work on this task
 - [ ] briefly respond to the prompts above

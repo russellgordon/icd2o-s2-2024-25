@@ -7,7 +7,7 @@ tags:
 ---
 ## Join the classroom
 
-Join our classroom on [TinkerCad.com](https://www.tinkercad.com/joinclass/ASMDRWFAB)
+Join our classroom on [Tinkercad.com](https://www.tinkercad.com/joinclass/ASMDRWFAB)
 > [!INFO]
 >
 > Please note that your nickname is your first name, and then your last name all lowercase.
