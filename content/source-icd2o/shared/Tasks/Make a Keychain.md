@@ -50,6 +50,7 @@ Here are some examples of designs made by former students:
 Follow these requirements to submit your work: [[Submitting files from Tinkercad]]
 
 ## Reflection prompts
+
 1. What problems did you encounter when completing this task? How did you resolve them?
 2. What is your knowledge and understanding of 3D printers and how they work? Have you ever used one before?
 
@@ -57,4 +58,21 @@ Make a post on [Notion](https://notion.so) to:
 - [ ] share at least one screenshot of your work on this task
 - [ ] briefly respond to the prompts above
 - [ ] share your [[Submitting files from Tinkercad|completed .STL file]]
+
+## Post-print self-assessment
+
+To complete this self-assessment, please make a *new* entry [in Notion](https://notion.so) titled **Keychain Task – Self-assessment**, then complete these steps:
+
+- [ ] Use your phone to take photos of your printed design from several angles. Add these photos to your post. 
+    > [!NOTE]
+    > 
+    > If you do not have your phone with you, Mr. Gordon will take photos for you and then send them to you for you to add to your portfolio entry.
+- [ ] Make a short screen recording where you [[Reviewing a Design|rotate your design in Tinkercad along vertical and horizontal axes]]
+- [ ] Respond to these prompts:
+
+1. Describe your thoughts about how the printed design compares to the design as you viewed it in Tinkercad.
+   > [!NOTE]
+   > 
+   > This first question is deliberately worded in an open-ended manner. Answer in whatever manner you see fit, but be sure to include at least a few sentences.
+2. If you had the opportunity to make a new version of your keychain tag, what would you change, and why?
 

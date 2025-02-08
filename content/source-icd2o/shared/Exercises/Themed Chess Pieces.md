@@ -6,7 +6,7 @@ createdForSectionTwo: 2024-10-17T07:00:00.000-0400
 ---
 
 ## Objective
-Create a set of chess pieces that are your own designs that follow a specific theme. 
+Create a set of chess pieces that are your own designs and that follow a specific theme. 
 
 The chess pieces should have 3 seperate elements, a broad base, a central body and a head.
 
