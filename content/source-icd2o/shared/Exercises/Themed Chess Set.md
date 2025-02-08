@@ -21,7 +21,7 @@ You will need a pencil and paper and to find and a partner to engage in the [[Dr
 
 ## Success Criteria
 - [ ] A hand-drawn plan is made for each of your thematic chess pieces
-- [ ] The models are evidently unique to each other and represent the six different chess pieces (Pawn, Rook, Knight, Bishop, Queen & King)
+- [ ] The models are evidently unique to each other and represent the six different chess pieces (pawn, rook, knight, bishop, queen, king)
 - [ ] You consistently give and receive peer feedback that is used to influence and adapt your group's design.
 - [ ] Your chess pieces [[Reviewing a Design|must be printable]].
 - [ ] You and your partner document an iterative approach to design, as shown through multiple portfolio posts.
@@ -64,16 +64,15 @@ These sketches should be included in your Notion posts as part of your planning 
 
 >[!tip]
 >
->Remember to keep in mind the [[Principles of 3D Printing|principles of 3D modeling]] when sketching and designing.
+>Remember to keep in mind the [[Principles of 3D Printing|principles of 3D printing]] when sketching and designing.
 
-## Peer
+## Peer feedback
 
 Discuss your sketches with your partner. Share feedback between groups. 
 
 You will provide and receive at least three pieces of constructive feedback on your sketches.
 
 Be sure to document the feedback given and received (both the content of the feedback, and to whom it was provided to, or received from).
-
 
 > [!remember]
 > 
@@ -98,7 +97,7 @@ Creative liberties may be taken, within reason.
 ![[Pasted image 20241223150303.png]]
 
 
-You can copy/paste designs from one project to another on TinkerCad. If you run out of space on your workplane making the pieces, create another project and then when you are finished, copy/paste them all into one project.
+You can copy/paste designs from one project to another on Tinkercad. If you run out of space on your workplane making the pieces, create another project and then when you are finished, copy/paste them all into one project.
 
  <div style="padding:56.25% 0 0 0;position:relative;">
 	<iframe src="https://player.vimeo.com/video/1045839040?h=4dcfdb437d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&portrait=0&byline=0&title=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Opening the Teamspace">
