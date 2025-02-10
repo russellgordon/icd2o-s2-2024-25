@@ -85,6 +85,8 @@ Be sure to document the feedback given and received (both the content of the fee
 >> "It is really good, I think it looks cool. There is some stuff that you could fix like the top of it" is **KIND**, but it is not **SPECIFIC**, or **HELPFUL**
 >> 
 >>"The proportions of your windows are really accurate! The columns are really close to accurate but are a bit off near the top as they look thinner than the real thing. If you use the technique you did for the windows on the columns to get them more accurate, I think it would really elevate your project!" is an example of **GOOD** peer feedback.
+>>
+>>For more on providing good feedback, this is a [great video to review](https://vimeo.com/38247060).
 
 ## Dimensions
 
