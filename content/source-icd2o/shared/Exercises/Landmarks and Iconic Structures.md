@@ -4,7 +4,9 @@ draftSectionTwo: true
 created: 2025-01-16T07:00:00.000-0400
 createdForSectionTwo: 2024-10-17T07:00:00.000-0400
 ---
+
 ![[Pasted image 20241224145729.png]]
+
 ## Objective
 You will select a real-life landmark or building to recreate through 3D modeling. The goal is to enhance their understanding of scale, proportion, and detail, emphasizing accuracy and craftsmanship in their designs. This hands-on experience will build foundational skills essential for creating realistic and precise 3D models.
 ## Success criteria

@@ -98,7 +98,6 @@ Creative liberties may be taken, within reason.
 
 ![[Pasted image 20241223150303.png]]
 
-
 You can copy/paste designs from one project to another on Tinkercad. If you run out of space on your workplane making the pieces, create another project and then when you are finished, copy/paste them all into one project.
 
  <div style="padding:56.25% 0 0 0;position:relative;">
