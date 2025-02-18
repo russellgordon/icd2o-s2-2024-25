@@ -12,6 +12,7 @@ tags:
 	- A working period for this task today, if needed.
 	- Be sure that you have shared evidence that makes it clear you have adjusted your 3D model based on feedback from a peer or Mr. Gordon.
 2. Task: [[Iconic Structures]]
+	- Some [examples of the most notable buildings](https://www.youtube.com/watch?v=k4mumEYdz0s) around the world.
 	- If your group is finished the chess set exercise, you may begin working on this individual assignment today.
 
 ## Things to do before our next class
