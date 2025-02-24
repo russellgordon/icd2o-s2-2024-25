@@ -36,12 +36,6 @@ Your 3D model in Tinkercad must:
 - [ ] be free of obvious errors or structural flaws
 - [ ] be improved over time based on feedback that is clearly documented in your portfolio – importantly – you must [[Iconic Structures#Submitting your work|submit your work at the end of each class period]]
 
-## Exemplars
-
-Here are examples of five iconic buildings from France alone – there are [[Iconic Structures#Iconic Structures|many structures from around the world to choose from]]:
-
-![[paris-landmarks.png]]
-
 ## Original work
 
 This task will be completed entirely within class time. 
@@ -61,6 +55,76 @@ Your unique approach, creativity, and problem-solving skills are crucial to this
 > [!NOTE]
 > 
 > This assignment is not just about the final product, but also about the process of learning, designing, and creating.
+
+## Exemplar
+
+Sadie chose to model the Arc de Triomphe in Paris:
+
+![[953px-Arc_de_Triomphe,_Paris_21_October_2010.jpg]]
+
+Here is her plan – based on some discussion with and feedback from Mr. Gordon, she has made a reasonable decision to omit some of the sculpture details from the arch:
+
+![[IMG_1729.jpeg]]
+
+Note that has Sadie has recorded that one square is equal to five feet in real life.
+
+She has also made a sketch of two sides of the structure, to make it clear what she intends to reproduce in Tinkercad.
+
+To determine the scale, Sadie took the height of the structure in real life, and divided it by enough squares so that her drawing would mostly fill the height of the page:
+
+$$
+\begin{aligned}
+\text{dimensions of a square on paper} &= \frac{\text{height of structure}}{\text{number of squares}} \\
+&= \frac{164}{35} \\
+&= 4.6857 \\
+&\approx 5 \text{ feet}
+\end{aligned}
+$$
+
+To determine the width of the drawing in terms of squares on her page, she then divided the actual width of the building by her newly determined scale:
+
+$$
+\begin{aligned}
+\text{squares to use for width of structure on paper} &= \frac{\text{width of structure}}{\text{dimensions of a square}} \\
+&= \frac{148}{5} \\
+&= 29.6 \\
+&\approx 30 \text{ squares}
+\end{aligned}
+$$
+
+This means that on her drawing, the structure is 35 squares tall by 30 squares wide.
+
+A calculation similar to the one above was done for the depth of the structure:
+
+$$
+\begin{aligned}
+\text{squares to use for depth of structure on paper} &= \frac{\text{depth of structure}}{\text{dimensions of a square}} \\
+&= \frac{72}{5} \\
+&= 14.4 \\
+&\approx 15 \text{ squares}
+\end{aligned}
+$$
+
+So, on the second drawing showing the side view of the structure, which illustrates the depth, Sadie has drawn the structure so that it is 15 squares deep.
+
+When moving to the modelling phase in Tinkercad, Sadie worked with Mr. Gordon to set the size of the workplane so that it matches the width of her structure:
+
+![[Pasted image 20250224071951.png]]
+
+**Please be certain to do the same when you set up your drawing in Tinkercad**.
+
+By sizing the workplane to either the width or depth of your structure, you can:
+
+- [ ] easily reason about sizing
+	- e.g.: one square in Tinkercad = one square on sketch = 5 feet in real life, in Sadie's case
+- [ ] use the "snap to grid" feature to your advantage
+	- e.g.: snapping to 1 mm on the grid means 0.5 feet in real life, for Sadie's drawing
+- [ ] have a larger canvas upon which render the architectural details of your building
+
+Here is a short video explaining how to set this up in Tinkercad:
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1059701090?h=c1f3346abb&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Setting the Scale"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 
 ## Peer feedback
 
@@ -91,6 +155,10 @@ Be sure to document the feedback given and received (both the content of the fee
 > If two students really want to do the same landmark, Mr. Gordon will officiate a best-of-three rock-paper-scissors duel to decide who gets to create the landmark for this task.
 
 ### Iconic Structures
+
+Here are possibilities involving five iconic buildings from France alone:
+
+![[paris-landmarks.png]]
 
 Widely recognized and well-known globally; these structures carry international fame and symbolize larger ideas or eras:
 

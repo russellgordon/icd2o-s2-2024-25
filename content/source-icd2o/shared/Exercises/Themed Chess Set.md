@@ -113,3 +113,21 @@ Be sure to clearly identify who your partner was.
 Each student must submit the work separately in their Notion portfolio.
 
 Be sure that you [[Submitting files from Tinkercad|submit the .STL files]] along with a [[Reviewing a Design|fly-through video]] of each piece.
+
+> [!IMPORTANT]
+> 
+> Since groups, overall, have done such an excellent job on this task, Mr. Gordon and Mr. Jones have decided to print a complete set of chess pieces for each group.
+> 
+> To facilitate this, please do the following before handing in your .STL file:
+> 
+> 1. Arrange pieces side-by-side, in decreasing height from tallest to shortest, so it is clear which pieces are which. That should mean the following order:
+> 	- King
+> 	- Queen
+> 	- Bishop
+> 	- Knight
+> 	- Rook
+> 	- Pawn<br/><br/>
+> 2. Double-check that the size of the base of each of your pieces is 3.5 cm or 35 mm. Using default settings, this should be three and a half squares on the workplane. **Each piece should have either a circular or square base with these dimensions.**<br/><br/>
+> 3. Be sure that each piece is grouped, **but**, that all the pieces are not grouped together.<br/>
+>    
+>    This means that all the pieces of a King are grouped together, then separately, all the pieces of a Queen are grouped, together, and so on. However, each piece within the set of six is separate from one another.
