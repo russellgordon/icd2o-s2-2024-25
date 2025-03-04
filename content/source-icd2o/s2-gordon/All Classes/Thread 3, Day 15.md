@@ -9,9 +9,7 @@ tags:
 ---
 ## Agenda
 1. Task: [[Iconic Structures]]
-	- Today, we will [[Iconic Structures#Peer feedback|focus on providing and receiving feedback]] – be sure to record this in your portfolio entry for today's class.
-		- Focus feedback on scale, proportion, and details as compared to the original structure.
-	- Then, time to work on your models in Tinkercad.
+	- A pure working period for this task; it is due tomorrow.
 
 ## Things to do before our next class
 
