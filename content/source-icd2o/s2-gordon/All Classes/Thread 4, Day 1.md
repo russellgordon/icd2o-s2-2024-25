@@ -1,18 +1,17 @@
 ---
 transcludeTitleSize: h2
-created: 2025-04-03T07:00:00.000-0400
-draft: false
-draftSectionTwo: true
+draft: true
+draftSectionTwo: false
 enableToc: false
 excludeBacklinks: true
+createdForSectionTwo: 2025-04-22T07:00:00.000-0400
 tags:
 ---
 ## Agenda
 1. Concept: [[Computer Hardware Components]]
-	- The final group will work with Mr. Jones today to learn how to disassemble and assemble a desktop computer, and name its major components.
-
+	- Across the next two classes, you will work in small groups with Mr. Jones to get hands on with the components of a computer, and learn how to disassemble and assemble a desktop computer.
 2. Exercise: [[Driving a Plotter or Laser Cutter]]
-	- When you are not learning about computer hardware, you will work with Mr. Gordon to continue using TurtleStitch.
+	- When you are not learning about computer hardware, you will work with Mr. Gordon to get started using TurtleStitch.
 	- Learn how to generate SVG files that can be sent to a plotter or laser cutter.
 
 ## Things to do before our next class
