@@ -17,7 +17,7 @@ tags:
 > 
 > Every student will complete a hardware re-assembly evaluation where you will describe the [[Computer Hardware Components|function of major computer components]] while assembling our demo computer.
 > 
-> The schedule for this task will be determined during today's class by random draw.
+> The schedule for this task will be determined during tomorrow's class by random draw.
 
 ## Things to do before our next class
 
