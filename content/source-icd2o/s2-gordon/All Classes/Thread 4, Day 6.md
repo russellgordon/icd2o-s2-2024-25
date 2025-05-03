@@ -18,6 +18,10 @@ tags:
 > [!NOTE]
 > 
 > Hardware re-assembly evaluations will begin in our next class, Tuesday May 6th.
+> 
+> Here is the entire schedule:
+> 
+> ![[Screenshot 2025-05-03 at 8.34.00 AM.png]]
 
 ## Things to do before our next class
 
