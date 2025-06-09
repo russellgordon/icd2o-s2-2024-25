@@ -6,7 +6,7 @@ created: 2024-09-06T07:00:00.000-0400
 createdForSectionTwo: 2025-06-05T07:00:00.000-0400
 ---
 # Most Recent Class
-![[Thread 5, Day 5]]
+![[Thread 5, Day 3]]
 ![[Grove Time]]
 ![[SIC Drop-In Sessions]]
 ![[Key Links]]
